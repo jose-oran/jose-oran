@@ -1,34 +1,38 @@
-### Jose Oran — Backend / Cloud Engineer
+### Jose Oran — Software Development Team Lead · Tech Lead
 
-.NET · Microservicios · Arquitectura distribuida
-.NET · Microservices · Distributed systems
+.NET · Microservicios · Arquitectura distribuida event-driven
+.NET · Microservices · Event-driven distributed architecture
 
 **[jose-oran.github.io →](https://jose-oran.github.io)** · portfolio completo / full portfolio
 
 ---
 
-**ES** — Desarrollador backend con foco en sistemas distribuidos: Clean Architecture, DDD,
-microservicios con Dapr, y control de concurrencia en escenarios reales de alto tráfico
-(plataformas transaccionales). Actualmente en búsqueda de nuevas oportunidades.
+**ES** — Líder técnico con 12+ años en ingeniería de software y 6+ liderando equipos
+internacionales, entregando plataformas distribuidas orientadas a eventos con .NET, Dapr,
+Apache Pulsar y Kubernetes. Clean Architecture, DDD, CQRS y Event Sourcing combinados con
+GitOps y comunicación clara hacia stakeholders. Actualmente en búsqueda de nuevas
+oportunidades.
 
-**EN** — Backend engineer focused on distributed systems: Clean Architecture, DDD,
-Dapr-based microservices, and concurrency control in real high-traffic transactional
-platforms. Currently open to new opportunities.
+**EN** — Technical lead with 12+ years in software engineering and 6+ leading
+international teams, delivering event-driven distributed platforms with .NET, Dapr,
+Apache Pulsar and Kubernetes. Clean Architecture, DDD, CQRS and Event Sourcing combined
+with GitOps and clear stakeholder communication. Currently open to new opportunities.
 
 ---
 
-#### Proyecto destacado / Featured project
+#### Proyectos de referencia / Reference projects
 
-**[reservation-system](https://github.com/jose-oran/reservation-system)** — prototipo que
-documenta cómo resolver double-booking bajo concurrencia con un lock distribuido sobre
-Redis (patrón actor), probado con un test de integración real (10 requests concurrentes,
-Testcontainers) — no una demo, sino el razonamiento completo: problema, opciones
-consideradas, decisión, trade-offs.
+Cada uno replica, con un dominio no confidencial, un problema real que resolví en
+producción — mismo patrón, mismo nivel de profundidad, sin código de cliente.
 
-*A prototype documenting how to prevent double-booking under concurrency using a
-Redis-backed distributed lock (actor pattern), proven with a real integration test (10
-concurrent requests, Testcontainers) — not a demo, the full reasoning: problem, options
-considered, decision, trade-offs.*
+| Proyecto (CV) | Prototipo | Estado |
+|---|---|---|
+| Plataforma de Concursos en Tiempo Real — Dapr Actors, SignalR, Redis | [reservation-system](https://github.com/jose-oran/reservation-system) | ✅ Live |
+| API Gateway de Integración — REST + gRPC, Protobuf, Polly | *próximamente* | 🚧 |
+| Catálogo de Eventos con Event Sourcing — EventStoreDB, MongoDB change streams | *próximamente* | 🚧 |
+| Modernización de Change Data Capture — polling → log-based CDC | *próximamente* | 🚧 |
+| Testing Guiado por Contratos — 1 contrato → fixtures BE/FE/QA | *próximamente* | 🚧 |
+| Pipeline CI/CD GitOps — Jenkins + Testcontainers + ArgoCD sync waves | *próximamente* | 🚧 |
 
 ---
 
