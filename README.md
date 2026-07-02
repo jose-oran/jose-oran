@@ -3,6 +3,8 @@
 .NET · Microservicios · Arquitectura distribuida
 .NET · Microservices · Distributed systems
 
+**[jose-oran.github.io →](https://jose-oran.github.io)** · portfolio completo / full portfolio
+
 ---
 
 **ES** — Desarrollador backend con foco en sistemas distribuidos: Clean Architecture, DDD,
