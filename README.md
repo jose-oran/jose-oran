@@ -1,6 +1,6 @@
 ### Jose Oran — Backend / Cloud Engineer
 
-.NET · Microservicios · Arquitectura distribuida — Argentina
+.NET · Microservicios · Arquitectura distribuida
 .NET · Microservices · Distributed systems
 
 ---
