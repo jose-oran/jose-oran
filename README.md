@@ -28,7 +28,7 @@ producción — mismo patrón, mismo nivel de profundidad, sin código de client
 | Proyecto (CV) | Prototipo | Estado |
 |---|---|---|
 | Plataforma de Concursos en Tiempo Real — Dapr Actors, SignalR, Redis | [reservation-system](https://github.com/jose-oran/reservation-system) | ✅ Live |
-| API Gateway de Integración — REST + gRPC, Protobuf, Polly | *próximamente* | 🚧 |
+| API Gateway de Integración — REST + gRPC, Protobuf, Polly | [provider-gateway](https://github.com/jose-oran/provider-gateway) | ✅ Live |
 | Catálogo de Eventos con Event Sourcing — EventStoreDB, MongoDB change streams | *próximamente* | 🚧 |
 | Modernización de Change Data Capture — polling → log-based CDC | *próximamente* | 🚧 |
 | Testing Guiado por Contratos — 1 contrato → fixtures BE/FE/QA | *próximamente* | 🚧 |
