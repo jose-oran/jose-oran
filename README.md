@@ -31,7 +31,7 @@ producción — mismo patrón, mismo nivel de profundidad, sin código de client
 | API Gateway de Integración — REST + gRPC, Protobuf, Polly | [provider-gateway](https://github.com/jose-oran/provider-gateway) | ✅ Live |
 | Catálogo de Eventos con Event Sourcing — EventStoreDB, MongoDB change streams | [event-catalog](https://github.com/jose-oran/event-catalog) | ✅ Live |
 | Modernización de Change Data Capture — polling → captura compartida | [cdc-modernization](https://github.com/jose-oran/cdc-modernization) | ✅ Live |
-| Testing Guiado por Contratos — 1 contrato → fixtures BE/FE/QA | *próximamente* | 🚧 |
+| Testing Guiado por Contratos — 1 contrato → fixtures BE/FE/QA | [contract-driven-testing](https://github.com/jose-oran/contract-driven-testing) | ✅ Live |
 | Pipeline CI/CD GitOps — Jenkins + Testcontainers + ArgoCD sync waves | *próximamente* | 🚧 |
 
 ---
